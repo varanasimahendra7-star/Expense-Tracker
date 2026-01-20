@@ -31,8 +31,8 @@ This project helps users digitally record their expenses, categorize them, and a
 - The total expense is recalculated each time the list changes
 
 ## Technologies Used
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - Browser LocalStorage API
 
